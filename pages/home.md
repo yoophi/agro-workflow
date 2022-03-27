@@ -1,2 +1,5 @@
-- Todo
-	- ServiceAccount 설정
+- {{embed [[port-forward argo-server]]}}
+- {{embed [[get login token]]}}
+- {{embed [[`argo-cli` 사용을 위한 환경변수 설정]]}}
+- {{embed [[Todo]]}}
+-
