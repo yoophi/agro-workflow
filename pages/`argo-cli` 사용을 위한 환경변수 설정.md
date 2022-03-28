@@ -1,3 +1,7 @@
+- TODO 오류가 없는지 확인 필요
+  :LOGBOOK:
+  CLOCK: [2022-03-28 Mon 15:30:37]--[2022-03-28 Mon 15:30:38] =>  00:00:01
+  :END:
 - ```sh
   # .envrc
   export ARGO_SERVER='localhost:2746' 

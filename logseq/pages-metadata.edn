@@ -1,6 +1,15 @@
-[{:block/name "a",
+[{:block/name "`argo-cli` 사용을 위한 환경변수 설정",
+  :block/created-at 1648441758603,
+  :block/updated-at 1648449044320}
+ {:block/name "a",
   :block/created-at 1647948688031,
   :block/updated-at 1647948688031}
+ {:block/name "argo events",
+  :block/created-at 1648441758672,
+  :block/updated-at 1648445791739}
+ {:block/name "argo workflows",
+  :block/created-at 1648441758577,
+  :block/updated-at 1648441758577}
  {:block/name "b",
   :block/created-at 1647948688031,
   :block/updated-at 1647948688031}
@@ -22,9 +31,12 @@
  {:block/name "favorites",
   :block/created-at 1647948688031,
   :block/updated-at 1647948688031}
+ {:block/name "get login token",
+  :block/created-at 1648441758640,
+  :block/updated-at 1648441758640}
  {:block/name "home",
   :block/created-at 1647863707576,
-  :block/updated-at 1648279520354}
+  :block/updated-at 1648448911244}
  {:block/name "in-progress",
   :block/created-at 1647948688031,
   :block/updated-at 1647948688031}
@@ -34,6 +46,18 @@
  {:block/name "now",
   :block/created-at 1647948688031,
   :block/updated-at 1647948688031}
+ {:block/name "port-forward argo-server",
+  :block/created-at 1648441758667,
+  :block/updated-at 1648442205644}
+ {:block/name "serviceaccount and role for argo events",
+  :block/created-at 1648444814187,
+  :block/updated-at 1648444888563}
+ {:block/name "show logs with `stern`",
+  :block/created-at 1648448933324,
+  :block/updated-at 1648448992861}
+ {:block/name "tips",
+  :block/created-at 1648448911244,
+  :block/updated-at 1648448933325}
  {:block/name "todo",
   :block/created-at 1647948688031,
   :block/updated-at 1647948688031}
