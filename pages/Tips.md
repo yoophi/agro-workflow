@@ -1,1 +1,2 @@
 - [[show logs with `stern`]]
+- [[list roles and cluster roles for a service-account]]
