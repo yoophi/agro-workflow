@@ -1,2 +1,3 @@
 - [[show logs with `stern`]]
 - [[list roles and cluster roles for a service-account]]
+- [[workflows step 간에 데이터 공유하기]]

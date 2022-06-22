@@ -1,0 +1,8 @@
+- 설치
+- cron
+- argo events
+- webhook
+- sqs
+- artifact
+	- s3 연동 세팅
+- 우리 컨테이너로 실행해보기

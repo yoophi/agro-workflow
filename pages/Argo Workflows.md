@@ -5,6 +5,7 @@
 	- 다단계 [[Workflow]]를 작업 시퀀스로 모델링하거나, [[DAG]]를 사용하여 작업간의 종속성을 정의할 수 있습니다.
 - [Quick Start](https://argoproj.github.io/argo-workflows/quick-start/)
   heading:: true
+  collapsed:: true
 	- 아래 명령으로 실습용 버전을 설치하고
 		- ```sh
 		  kubectl create ns argo
@@ -34,3 +35,4 @@
 - Links
   heading:: true
 	- {{embed [[Links]]}}
+- [[Cluster Install]]
